@@ -91,7 +91,6 @@ const Layout = () => {
 
 
                     <div className="bg-secondary mb-3" style={{ width: "100%", height: "200px" }}></div>
-                    <p>Additional Info</p>
                     <div className="bg-secondary mb-2" style={{ width: "100%", height: "20px" }}></div>
                     <div className="bg-secondary" style={{ width: "100%", height: "20px" }}></div>
 
